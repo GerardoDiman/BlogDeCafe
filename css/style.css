@@ -62,6 +62,9 @@ img{
 .centrar-texto{
     text-align: center;
 }
+.justificar-texto{
+    text-align: justify;
+}
 
 /* Header */
 .header{
